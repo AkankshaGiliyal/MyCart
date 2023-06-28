@@ -7,6 +7,8 @@ Steps to run the code:
 6. can register as admin for admin only accessible commands or use password:giliyal
 7.can register as user use username:sponge, password:bob
 
+**Make sure to navigate to the mycart folder for mycart.py
+
 
 
     
