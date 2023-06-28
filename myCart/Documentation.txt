@@ -1,0 +1,15 @@
+Steps to run the code:
+1. install the code
+2. open vscode or use the windows cmd to directly navigate to the folder containing MYCART
+3. install all the required libraries
+4. run the app using python mycart.py
+5. to select each option use python mycart.py [option] ex: python mycart.py view-purchases
+6. can register as admin for admin only accessible commands or use password:giliyal
+7.can register as user use username:sponge, password:bob
+
+
+
+    
+ 
+    
+`
